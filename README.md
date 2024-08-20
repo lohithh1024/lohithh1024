@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+This is day one 
+author - Lohith Lokesh
 <!--
 **lohithh1024/lohithh1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
