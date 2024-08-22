@@ -4,7 +4,11 @@ This is day one
 author - Lohith Lokesh
 <br>
 this is new day
-
+<br>
+another new day ecploring new things..
+<br>
+but will never give up
+s
 <!--
 **lohithh1024/lohithh1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
