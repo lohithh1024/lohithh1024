@@ -10,6 +10,8 @@ another new day ecploring new things..
 but will never give up
 <br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)--
+<br>
+will explore new things
 **lohithh1024/lohithh1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
