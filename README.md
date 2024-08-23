@@ -8,6 +8,7 @@ this is new day
 another new day ecploring new things..
 <br>
 but will never give up
+<br>
 LEARNING smtg new today
 <br>
 will continue to explore
