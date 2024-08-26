@@ -11,7 +11,7 @@ but will never give up
 <br>
 LEARNING smtg new today
 <br>
-will continue to explore _ e
+will continue to explore
 <br>
 i am still wandering how to explore this
 <br>
