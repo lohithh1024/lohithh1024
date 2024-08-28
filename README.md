@@ -10,11 +10,6 @@ another new day exploring new things..
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lohithh1024&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__lohith_1024) 
 
