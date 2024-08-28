@@ -5,7 +5,7 @@ author - Lohith Lokesh
 <br>
 this is new day
 <br>
-another new day ecploring new things..
+another new day exploring new things..
 
 
 
