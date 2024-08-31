@@ -42,15 +42,15 @@ def calculator():
 
 #adding to find percentage
 
-
+#for input
 number = float(input("Enter the number: "))
 
-
+#percentage of input
 percentage = float(input("Enter the percentage: "))
 
-
+#calculating percentage
 result = (percentage / 100) * number
-
+#result
 print(f"{percentage}% of {number} is {result}")
 
 
