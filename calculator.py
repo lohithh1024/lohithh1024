@@ -39,3 +39,18 @@ def calculator():
     else:
         print("Invalid Input")
 
+
+#adding to find percentage
+
+
+number = float(input("Enter the number: "))
+
+
+percentage = float(input("Enter the percentage: "))
+
+
+result = (percentage / 100) * number
+
+print(f"{percentage}% of {number} is {result}")
+
+
